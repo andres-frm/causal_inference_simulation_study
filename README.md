@@ -2,9 +2,7 @@ _Repository for simulation study_
 
 ## Using Bayesian imputation to block the effect of confounding variables
 
-__Authors:__ 
-
-### Andrés F. Ramírez-Mejía
+__Author: Andrés F. Ramírez-Mejía__ 
 
 This repository contains the `R` script (`report_script.R`), Quarto document (`report.qmd`), and report (`report.pdf`) of the simulation study 
 demonstrating how Bayesian imputation can be used in a hierarchical model to block the effect of confounding variables.

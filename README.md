@@ -14,3 +14,5 @@ __File description:__
 - `report_script.R`: `R` script reproducing the entire simulation study.
 - `report.qmd`: `Quarto` document for generating the final report.
 - `report.pdf`: Report file in `.pdf` format.
+- `functions_mod_diagnostics.R`: Custom functions for model diagnostics.
+- `generative_model_NA.stan`: Hierarchical Bayesian model in `Stan` language.
